@@ -1,0 +1,1 @@
+# Electron-Playwright-Translation-and-Cookie-Banner-Issues-in-Screenshot-Tool
